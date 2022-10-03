@@ -2,13 +2,13 @@
 
 > Um Clone do jogo <strong>PONG</strong> feito no GameMaker Studio 2
 
-### Updates
+### Versão Atual
 
 - [x] Versão proto_base_ball
 - [x] Versão proto_base_ia
 - [x] Versão proto_game_base
-- [x] Versão 0.1.0.0b
-- [ ] Versão 1.0.0.0
+- [x] Versão 0.0.1.0_test_gameplay (Atual)
+- [ ] Versão ?
 
 ## 💻 Pré-requisitos
 
@@ -20,11 +20,10 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 ## 🚀 Instalando <strong>GameMaker Pong Clone</strong>
 
 Para instalar o <GameMaker Pong Clone>, siga estas etapas:
-1* Baixe a pasta <strong>pong_clone</strong>
-
-2* Coloque A mesma na pasta raiz de projetos no GameMaker
-
-3* No GameMaker, Abra O Arquivo <strong>pong_clone.yyp</strong>
+  
+- 1: Baixe a pasta <strong>pong_clone</strong>
+- 2: Coloque A mesma na pasta raiz de projetos no GameMaker
+- 3: No GameMaker, Abra O Arquivo <strong>pong_clone.yyp</strong>
 
 ### Deseja Entrar Em Contato
 
