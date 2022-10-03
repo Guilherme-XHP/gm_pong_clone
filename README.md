@@ -32,8 +32,8 @@ Para instalar o <GameMaker Pong Clone>, siga estas etapas:
 
 ### Deseja Entrar Em Contato
 
-Gmail: <strong>guilhermecaetanno87123@gmail.com</strong>
+Gmail: [AQUI](guilhermecaetanno87123@gmail.com)
   
-Whatsapp: <strong>https://api.whatsapp.com/send/?phone=%2B5534996386599&text=Ol%C3%A1%2C+XinguheProd&type=phone_number&app_absent=0</strong>
+Whatsapp: [AQUI](https://api.whatsapp.com/send/?phone=%2B5534996386599&text=Ol%C3%A1%2C+XinguheProd&type=phone_number&app_absent=0)
 
-Instagram: <strong>https://www.instagram.com/xinguheprod/</strong>
+Instagram: [AQUI](https://www.instagram.com/xinguheprod/)
