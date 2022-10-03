@@ -1,10 +1,5 @@
 # GameMaker Pong Clone
 
-<!--- https://shields.io --->
-
-![GitHub repo size](https://img.shields.io/github/repo-size/XinguHe/gm_pong_clone)
-![GitHub language count](https://img.shields.io/github/languages/count/XinguHe/gm_pong_clone)
-
 > Um Clone do jogo <strong>PONG</strong> feito no GameMaker Studio 2
 
 ### Updates
