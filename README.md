@@ -22,12 +22,14 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Versão mais recente do GameMaker Studio 2
 * ter uma máquina `<Windows>`. Não Testado em `<Linux / Mac>`
 
-## 🚀 Instalando <GameMaker Pong Clone>
+## 🚀 Instalando <strong>GameMaker Pong Clone</strong>
 
 Para instalar o <GameMaker Pong Clone>, siga estas etapas:
-1 - Baixe a pasta <pong_clone>
-2 - Coloque A mesma na pasta raiz de projetos no GameMaker
-3 - No GameMaker, Abra O Arquivo <pong_clone.yyp>
+1* Baixe a pasta <strong>pong_clone</strong>
+
+2* Coloque A mesma na pasta raiz de projetos no GameMaker
+
+3* No GameMaker, Abra O Arquivo <strong>pong_clone.yyp</strong>
 
 ### Deseja Entrar Em Contato
 
